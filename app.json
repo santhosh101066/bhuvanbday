@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "bhuvanbday",
+    "name": "YT Music",
     "slug": "bhuvanbday",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ff77228e-8594-4e97-beba-54d8b2f9e179"
+      }
+    },
+    "owner": "santhosh26"
   }
 }
